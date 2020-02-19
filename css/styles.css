@@ -31,7 +31,17 @@ body {
 
 li, ol, ul {
   padding: 0;
+  margin-top: 15px;
   display: inline-block;
+  transition: color 2.5s, background-color 1.2s;
+}
+
+#phrase.section {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
 }
 
 h2 {
