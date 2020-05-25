@@ -89,12 +89,14 @@ header{
   background-color: #343a40;
   color: #ffffff;
   width: 100%;
-  padding: 1em;
   margin: 0px;
+  margin-top: -1em;
+  height: 8em;
 }
 
 .headerText{
   margin-left: 40%;
+  margin-top: 1.6em;
   font-size: 1.4em;
 }
 
